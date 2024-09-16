@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ralflima/2024-Logica-Algoritmos-CSharp/blob/main/logo.png" width="30%">
+  <img src="https://github.com/ralflima/2024-Logica-Algoritmos-CSharp/blob/main/webp.png" width="30%">
   <h1 style="border-bottom:none">Lógica e Algoritmos com C#</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
