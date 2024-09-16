@@ -31,7 +31,7 @@
    <p>Os membros do canal terão aulas extras e exclusivas, os conteúdos abordados serão:</p>
 
    + Exercícios;
-   + Utilizando o Enums
+   + Utilizando o Enums;
    + Manipulação de textos, números e datas;
    + Conhecendo o gerenciador de pacotes NuGet;
    + ArrayList;
