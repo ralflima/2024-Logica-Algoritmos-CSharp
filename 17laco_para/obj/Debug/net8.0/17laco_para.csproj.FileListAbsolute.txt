@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/bin/Debug/net8.0/17laco_para
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/bin/Debug/net8.0/17laco_para.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/bin/Debug/net8.0/17laco_para.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/bin/Debug/net8.0/17laco_para.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/bin/Debug/net8.0/17laco_para.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/17laco_para.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/17laco_para.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/17laco_para.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/17laco_para.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/17laco_para.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/refint/17laco_para.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/17laco_para.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/17laco_para.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/17laco_para/obj/Debug/net8.0/ref/17laco_para.dll

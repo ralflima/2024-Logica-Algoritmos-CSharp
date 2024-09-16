@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "11condicional_encadeada/1.0.0": {
+        "runtime": {
+          "11condicional_encadeada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11condicional_encadeada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

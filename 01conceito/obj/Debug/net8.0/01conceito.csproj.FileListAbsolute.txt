@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/bin/Debug/net8.0/01conceito
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/bin/Debug/net8.0/01conceito.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/bin/Debug/net8.0/01conceito.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/bin/Debug/net8.0/01conceito.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/bin/Debug/net8.0/01conceito.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/01conceito.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/01conceito.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/01conceito.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/01conceito.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/01conceito.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/refint/01conceito.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/01conceito.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/01conceito.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/01conceito/obj/Debug/net8.0/ref/01conceito.dll

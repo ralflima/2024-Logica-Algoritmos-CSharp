@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/bin/Debug/net8.0/13operador_ternario
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/bin/Debug/net8.0/13operador_ternario.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/bin/Debug/net8.0/13operador_ternario.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/bin/Debug/net8.0/13operador_ternario.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/bin/Debug/net8.0/13operador_ternario.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/13operador_ternario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/13operador_ternario.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/13operador_ternario.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/13operador_ternario.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/13operador_ternario.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/refint/13operador_ternario.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/13operador_ternario.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/13operador_ternario.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/13operador_ternario/obj/Debug/net8.0/ref/13operador_ternario.dll

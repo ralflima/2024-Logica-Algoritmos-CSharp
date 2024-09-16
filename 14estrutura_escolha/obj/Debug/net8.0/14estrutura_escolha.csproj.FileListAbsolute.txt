@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/bin/Debug/net8.0/14estrutura_escolha
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/bin/Debug/net8.0/14estrutura_escolha.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/bin/Debug/net8.0/14estrutura_escolha.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/bin/Debug/net8.0/14estrutura_escolha.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/bin/Debug/net8.0/14estrutura_escolha.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/14estrutura_escolha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/14estrutura_escolha.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/14estrutura_escolha.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/14estrutura_escolha.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/14estrutura_escolha.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/refint/14estrutura_escolha.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/14estrutura_escolha.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/14estrutura_escolha.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/14estrutura_escolha/obj/Debug/net8.0/ref/14estrutura_escolha.dll

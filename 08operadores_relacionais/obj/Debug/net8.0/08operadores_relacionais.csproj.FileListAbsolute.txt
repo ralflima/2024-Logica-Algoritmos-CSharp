@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/refint/08operadores_relacionais.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/08operadores_relacionais/obj/Debug/net8.0/ref/08operadores_relacionais.dll

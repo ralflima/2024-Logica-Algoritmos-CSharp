@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/bin/Debug/net8.0/18vetor
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/bin/Debug/net8.0/18vetor.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/bin/Debug/net8.0/18vetor.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/bin/Debug/net8.0/18vetor.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/bin/Debug/net8.0/18vetor.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/18vetor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/18vetor.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/18vetor.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/18vetor.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/18vetor.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/refint/18vetor.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/18vetor.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/18vetor.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/18vetor/obj/Debug/net8.0/ref/18vetor.dll

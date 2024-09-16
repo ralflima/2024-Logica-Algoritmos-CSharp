@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/bin/Debug/net8.0/20matriz
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/bin/Debug/net8.0/20matriz.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/bin/Debug/net8.0/20matriz.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/bin/Debug/net8.0/20matriz.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/bin/Debug/net8.0/20matriz.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/20matriz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/20matriz.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/20matriz.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/20matriz.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/20matriz.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/refint/20matriz.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/20matriz.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/20matriz.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/20matriz/obj/Debug/net8.0/ref/20matriz.dll

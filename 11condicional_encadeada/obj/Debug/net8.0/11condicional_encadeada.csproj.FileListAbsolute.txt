@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/bin/Debug/net8.0/11condicional_encadeada
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/bin/Debug/net8.0/11condicional_encadeada.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/bin/Debug/net8.0/11condicional_encadeada.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/bin/Debug/net8.0/11condicional_encadeada.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/bin/Debug/net8.0/11condicional_encadeada.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/11condicional_encadeada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/11condicional_encadeada.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/11condicional_encadeada.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/11condicional_encadeada.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/11condicional_encadeada.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/refint/11condicional_encadeada.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/11condicional_encadeada.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/11condicional_encadeada.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/11condicional_encadeada/obj/Debug/net8.0/ref/11condicional_encadeada.dll

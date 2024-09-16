@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/bin/Debug/net8.0/10condicional_simples
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/bin/Debug/net8.0/10condicional_simples.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/bin/Debug/net8.0/10condicional_simples.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/bin/Debug/net8.0/10condicional_simples.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/bin/Debug/net8.0/10condicional_simples.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/10condicional_simples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/10condicional_simples.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/10condicional_simples.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/10condicional_simples.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/10condicional_simples.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/refint/10condicional_simples.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/10condicional_simples.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/10condicional_simples.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/10condicional_simples/obj/Debug/net8.0/ref/10condicional_simples.dll

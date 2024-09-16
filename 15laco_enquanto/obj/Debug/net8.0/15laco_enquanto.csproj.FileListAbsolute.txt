@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/bin/Debug/net8.0/15laco_enquanto
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/bin/Debug/net8.0/15laco_enquanto.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/bin/Debug/net8.0/15laco_enquanto.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/bin/Debug/net8.0/15laco_enquanto.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/bin/Debug/net8.0/15laco_enquanto.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/15laco_enquanto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/15laco_enquanto.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/15laco_enquanto.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/15laco_enquanto.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/15laco_enquanto.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/refint/15laco_enquanto.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/15laco_enquanto.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/15laco_enquanto.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/15laco_enquanto/obj/Debug/net8.0/ref/15laco_enquanto.dll

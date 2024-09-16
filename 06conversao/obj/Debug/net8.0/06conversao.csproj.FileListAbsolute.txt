@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/bin/Debug/net8.0/06conversao
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/bin/Debug/net8.0/06conversao.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/bin/Debug/net8.0/06conversao.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/bin/Debug/net8.0/06conversao.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/bin/Debug/net8.0/06conversao.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/06conversao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/06conversao.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/06conversao.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/06conversao.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/06conversao.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/refint/06conversao.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/06conversao.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/06conversao.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/06conversao/obj/Debug/net8.0/ref/06conversao.dll

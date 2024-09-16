@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/bin/Debug/net8.0/04concatenacao
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/bin/Debug/net8.0/04concatenacao.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/bin/Debug/net8.0/04concatenacao.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/bin/Debug/net8.0/04concatenacao.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/bin/Debug/net8.0/04concatenacao.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/04concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/04concatenacao.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/04concatenacao.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/04concatenacao.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/04concatenacao.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/refint/04concatenacao.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/04concatenacao.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/04concatenacao.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/04concatenacao/obj/Debug/net8.0/ref/04concatenacao.dll

@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/bin/Debug/net8.0/19laco_foreach
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/bin/Debug/net8.0/19laco_foreach.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/bin/Debug/net8.0/19laco_foreach.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/bin/Debug/net8.0/19laco_foreach.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/bin/Debug/net8.0/19laco_foreach.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/19laco_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/19laco_foreach.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/19laco_foreach.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/19laco_foreach.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/19laco_foreach.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/refint/19laco_foreach.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/19laco_foreach.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/19laco_foreach.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/19laco_foreach/obj/Debug/net8.0/ref/19laco_foreach.dll

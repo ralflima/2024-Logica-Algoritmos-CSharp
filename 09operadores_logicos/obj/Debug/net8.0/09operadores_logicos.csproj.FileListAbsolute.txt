@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/refint/09operadores_logicos.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/09operadores_logicos/obj/Debug/net8.0/ref/09operadores_logicos.dll

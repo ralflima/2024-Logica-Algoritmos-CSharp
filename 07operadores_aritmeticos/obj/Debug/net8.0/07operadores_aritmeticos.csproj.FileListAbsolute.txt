@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/bin/Debug/net8.0/07operadores_aritmeticos
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/bin/Debug/net8.0/07operadores_aritmeticos.deps.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/bin/Debug/net8.0/07operadores_aritmeticos.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/bin/Debug/net8.0/07operadores_aritmeticos.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/bin/Debug/net8.0/07operadores_aritmeticos.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/07operadores_aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/07operadores_aritmeticos.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/07operadores_aritmeticos.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/07operadores_aritmeticos.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/07operadores_aritmeticos.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/refint/07operadores_aritmeticos.dll
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/07operadores_aritmeticos.pdb
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/07operadores_aritmeticos.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Lógica e Algoritmos - c#/07operadores_aritmeticos/obj/Debug/net8.0/ref/07operadores_aritmeticos.dll
